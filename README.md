@@ -10,3 +10,9 @@ Standard FiveM resource-
 Drag and drop in your resources folder. 
 start/ensure resource (you can rename if you like)
 
+
+
+
+
+
+
